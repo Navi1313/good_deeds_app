@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>92941533146-fs15l1u8r72pu6dt3s954ehli6mlg77f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.92941533146-fs15l1u8r72pu6dt3s954ehli6mlg77f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUth3WSRh58GYPCxqQTlvJ3ZNUjBRUmI8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>92941533146</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.navi.goodDeedsApp.stg</string>
+	<key>PROJECT_ID</key>
+	<string>good-deeds-stg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>good-deeds-stg.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:92941533146:ios:9986d032792b67ce4e4ae3</string>
+</dict>
+</plist>

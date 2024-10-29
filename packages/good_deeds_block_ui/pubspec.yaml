@@ -1,0 +1,43 @@
+name: good_deeds_block_ui
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+  flutter: ^3.24.0
+
+dependencies:
+  app_ui:
+    path: ../app_ui
+  cached_memory_image: ^1.5.0
+  cached_network_image: ^3.4.1
+  carousel_slider: ^5.0.0
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.0
+  flutter_blurhash: ^0.8.2
+  good_deeds_block:
+    path: ../good_deeds_block
+  image_picker_plus:
+    path: ../image_picker_plus
+  inview_notifier_list: ^3.0.0
+  octo_image: ^2.1.0
+  powersync_repository:
+    path: ../powersync_repository
+  shared:
+    path: ../shared
+  shimmer: ^3.0.0
+  smooth_page_indicator: ^1.2.0+3
+  smooth_video_progress: ^0.0.4
+  sprung: ^3.0.1
+  user_repository:
+    path: ../user_repository
+  video_player: ^2.9.2
+  visibility_detector: ^0.4.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^6.0.0

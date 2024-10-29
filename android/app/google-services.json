@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "192097266563",
+    "project_id": "good-deeds-prod",
+    "storage_bucket": "good-deeds-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192097266563:android:2ac7fb92749a25781ce4b6",
+        "android_client_info": {
+          "package_name": "com.navi.good_deeds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192097266563-omg1n3s49i88dms5ihak91jkedkludfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwONs_vuzHJVEyoqPeCJdAfLEY_U9fi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192097266563-omg1n3s49i88dms5ihak91jkedkludfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192097266563-1dvjcpm4jq54fftep6rm9383skp1vvcp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.navi.goodDeedsApp.prod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

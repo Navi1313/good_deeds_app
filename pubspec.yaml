@@ -1,0 +1,82 @@
+name: good_deeds_app
+description: Good Deed App Starting
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  animate_do: ^3.3.4
+  animations: ^2.0.11
+  app_ui:
+    path: packages/app_ui
+  bloc: ^8.1.4
+  database_client:
+    path: packages/database_client
+  env:
+    path: packages/env
+  equatable: ^2.0.5
+  firebase_core: ^3.4.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_gen: any
+  flutter_launcher_icons: ^0.14.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.0
+  form_fields:
+    path: packages/form_fields
+  formz: ^0.4.1
+  get_it: ^8.0.0
+  go_router: ^14.3.0
+  good_deeds_block:
+    path: packages/good_deeds_block
+  good_deeds_block_ui:
+    path: packages/good_deeds_block_ui
+  google_sign_in: ^6.2.1
+  hydrated_bloc: ^9.1.5
+  image_picker: ^1.1.2
+  intl: ^0.19.0
+  json_annotation: ^4.9.0
+  json_serializable: ^6.8.0
+  l10n_flutter: ^1.0.7
+  logger: ^2.4.0
+  lottie: ^3.1.3
+  path_provider: ^2.1.4
+  posts_repository:
+    path: packages/posts_repository
+  powersync_repository:
+    path: packages/powersync_repository
+  provider: ^6.1.2
+  riverpod_annotation: ^2.6.0
+  shared:
+    path: packages/shared
+  shared_preferences: ^2.3.2
+  slang: ^4.1.0
+  slang_flutter: ^4.1.0
+  sliver_tools: ^0.2.12
+  smooth_page_indicator: ^1.2.0+3
+  supabase_flutter: ^2.8.0
+  superbase_authentication_client:
+    path: packages/authentication_client/superbase_authentication_client
+  timeago: ^3.7.0
+  token_storage:
+    path: packages/authentication_client/token_storage
+  user_repository:
+    path: packages/user_repository
+
+dev_dependencies:
+  bloc_test: ^9.1.7
+  build_runner: ^2.4.13
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  riverpod_generator: ^2.4.3
+  slang_build_runner: ^4.1.0
+  very_good_analysis: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
