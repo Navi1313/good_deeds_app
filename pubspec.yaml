@@ -29,7 +29,7 @@ dependencies:
   form_fields:
     path: packages/form_fields
   formz: ^0.4.1
-  get_it: ^8.0.0
+  get_it: ^8.0.3
   go_router: ^14.3.0
   good_deeds_block:
     path: packages/good_deeds_block
